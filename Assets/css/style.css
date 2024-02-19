@@ -278,5 +278,14 @@ footer {
     #screenshot3 {
         width: auto;
     }  
+    
+    #selfie {
+        display: inline;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 2px;
+        padding: 10px;
+    }
 }
+
   
